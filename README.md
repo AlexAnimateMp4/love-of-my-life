@@ -4,7 +4,16 @@
     <a id="readme-shield-npm" href="https://www.npmjs.com/package/love-of-my-life">
         <img id="readme-shield-npm-img" src="https://img.shields.io/npm/v/love-of-my-life" alt="NPM Package" />
     </a>
-    <a id="readme-shield-last-commit" href="https://github.com/AlexAnimateMp4/love-of-my-life/commits/main">
+    <a id="readme-shield-yarn" href="https://yarnpkg.com/package/love-of-my-life">
+        <img id="readme-shield-yarn-img" src="https://img.shields.io/npm/v/love-of-my-life?label=yarn&color=25799f" alt="Yarn Package" />
+    </a>
+    <a id="readme-shield-jsdelivr" href="https://www.jsdelivr.com/package/npm/love-of-my-life">
+        <img id="readme-shield-jsdelivr-img" src="https://data.jsdelivr.com/v1/package/npm/love-of-my-life/badge?style=rounded" alt="jsDelivr CDN" />
+    </a>
+    <a id="readme-shield-unpkg" href="https://unpkg.com/love-of-my-life" target="_blank">
+        <img id="readme-shield-unpkg-img" src="https://img.shields.io/npm/v/love-of-my-life?label=unpkg&color=black" alt="UnPKG CDN" />
+    </a>
+    <a id="readme-shield-last-commit" href="https://github.com/AlexAnimateMp4/love-of-my-life/commits/master">
         <img id="readme-shield-last-commit-img" src="https://img.shields.io/github/last-commit/AlexAnimateMp4/love-of-my-life" alt="Last commit" />
     </a>
     <a id="readme-shield-release-date" href="https://github.com/AlexAnimateMp4/love-of-my-life/releases/latest">
@@ -67,11 +76,8 @@
     <a id="readme-shield-license" href="./LICENSE">
         <img id="readme-shield-license-img" src="https://img.shields.io/github/license/AlexAnimateMp4/love-of-my-life" alt="License" />
     </a>
-    <a id="readme-shield-files-count">
-        <img id="readme-shield-files-count-img" src="https://img.shields.io/github/directory-file-count/AlexAnimateMp4/love-of-my-life" alt="Files count" />
-    </a>
-    <a id="readme-shield-dirs-count">
-        <img id="readme-shield-dirs-count-img" src="https://img.shields.io/github/directory-file-count/AlexAnimateMp4/love-of-my-life?label=dirs" alt="Dirs count" />
+    <a id="readme-shield-contents">
+        <img id="readme-shield-contents-img" src="https://img.shields.io/github/directory-file-count/AlexAnimateMp4/love-of-my-life" alt="Number of contents" />
     </a>
     <a id="readme-shield-code-size">
         <img id="readme-shield-code-size-img" src="https://img.shields.io/github/languages/code-size/AlexAnimateMp4/love-of-my-life" alt="Code size" />
